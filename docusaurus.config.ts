@@ -74,12 +74,12 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'sidebar',
           position: 'left',
           label: 'Curse of Strahd',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Ferre-Laridon/Curse-of-Strahd',
           label: 'GitHub',
           position: 'right',
         },
@@ -89,38 +89,30 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Curse of Strahd',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Intro',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Tools',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'D&D Beyond',
+              href: 'https://www.dndbeyond.com/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
+              label: 'Curse of Strahd Reloaded',
+              href: "https://www.strahdreloaded.com/Introduction/A+DM's+Guide+to+Curse+of+Strahd",
+            }
           ],
         },
         {
-          title: 'More',
+          title: 'Andere',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
@@ -128,7 +120,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Ferre Laridon`,
     },
     prism: {
       theme: prismThemes.github,
