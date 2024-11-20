@@ -20,6 +20,16 @@
   --ifm-color-secondary-purple: #4b0082;
   --ifm-color-secondary-gold: #b8860b;
 
+  /* Admonition colors */
+  --ifm-color-admonition-lore: #4cb3d4;
+  --ifm-color-admonition-lore-bg: #eef9fd;
+  --ifm-color-admonition-narrative: #009400;
+  --ifm-color-admonition-narrative-bg: #e6f6e6;
+  --ifm-color-admonition-profile: #f0e68c;
+  --ifm-color-admonition-profile-bg: #fdf7e4;
+  --ifm-color-admonition-item: #ce4beb;
+  --ifm-color-admonition-item-bg: #f6e7ff;
+  
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.15);
 }
@@ -36,8 +46,35 @@
 
   /* Secondary colors (adjusted for dark mode contrast) */
   --ifm-color-secondary-black: #1a1a1a;
-  --ifm-color-secondary-purple: #6a0dad;
+  --ifm-color-secondary-purple: #af54f0;
   --ifm-color-secondary-gold: #daa520;
 
+  /* Admonition colors */
+  --ifm-color-admonition-lore: #4cb3d4;
+  --ifm-color-admonition-lore-bg: #193c47;
+  --ifm-color-admonition-narrative: #009400;
+  --ifm-color-admonition-narrative-bg: #003100;
+  --ifm-color-admonition-profile: #f0e68c;
+  --ifm-color-admonition-profile-bg: #3f3f3f;
+  --ifm-color-admonition-item: #ce4beb;
+  --ifm-color-admonition-item-bg: #430b50;
+
   --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.2);
+}
+
+.credit {
+  color: var(--ifm-color-secondary-purple);
+  display: block;
+  margin: auto;
+  font-weight: bold;
+  font-size: 0.8em;
+  font-style: italic;
+  text-align: center;
+  width: 100%;
+}
+
+.poem {
+  font-style: italic;
+  text-align: center;
+  margin: 1em 0;
 }
