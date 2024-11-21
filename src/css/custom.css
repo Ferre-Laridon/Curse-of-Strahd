@@ -78,3 +78,22 @@
   text-align: center;
   margin: 1em 0;
 }
+
+.statblock {
+  display: flex;
+}
+
+.statblock-column {
+  display: flex;
+  flex: 50%;
+}
+
+.statblock-title {
+  margin-bottom: 0;
+}
+
+.statblock-horizontal-rule {
+  margin: 0;
+  font-weight: extra-bold;
+  color: var(--ifm-color-secondary-gold);
+}
