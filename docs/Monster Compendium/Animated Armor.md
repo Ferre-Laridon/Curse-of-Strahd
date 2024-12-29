@@ -1,0 +1,1 @@
+![Animated Armor](/img/statblocks/animated-armor.png)

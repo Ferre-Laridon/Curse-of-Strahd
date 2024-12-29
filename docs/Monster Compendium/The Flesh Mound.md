@@ -1,0 +1,1 @@
+![The Flesh Mound](/img/statblocks/the-flesh-mound.png)

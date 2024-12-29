@@ -372,11 +372,33 @@ Spelers die de akte van Old Bonegrinder in de geheime kist vinden, komen vaak to
 
 ## Tweede Verdieping
 
+Terwijl de spelers de draaitrap naar boven nemen, herinner ze eraan dat ze via het centrum van de trap helemaal naar de gelijkvloers kunnen kijken.
+
 ### Balkon
 
 *Appendix B: Gebied 11*
 
+Als de spelers deze kamer betreden, lees:
 
+:::exposition
+Je beklimt de rode marmeren trap tot zijn hoogste punt en arriveert op een stoffig balkon. De lucht hier is droog en muf, maar heeft een vreemde, koperachtige geur.  
+
+Een zwart harnas van plaatstaal staat tegen een muur, bedekt met spinnenwebben en getekend door de tand des tijds. Olie-lampen zijn gemonteerd op de verweerde eikenhouten lambrisering, die versierd is met boslandschappen van bomen, vallende bladeren en kleine dieren.
+:::
+
+Wanneer geactiveerd, gebruikt het **animated armor** een of beide aanvallen van zijn ***multiattack*** om een speler over de balustrade te duwen met een ***shove*** attack, of om zijn dichtstbijzijnde doelwit in een grapple te nemen voordat het hen prone duwt.  
+
+Als het **animated armor** op de gelijkvloers wordt gegooid en de spelers hun aanwezigheid op het balkon niet onthullen, kan het hen niet waarnemen met zijn blindsight van zestig ft. en is het te dom om eraan te denken terug naar boven te klimmen.  
+
+Een wezen dat over de rand van het balkon wordt geduwd, valt twee verdiepingen, oftewel twintig ft., en neemt 2d6 bludgeoning damage. Het wezen moet slagen voor een `DC 15 Dexterity (Acrobatics)`-check of het valt prone.
+
+:::danger[Balancing Animated Armor]
+Dit gevecht is een mild encounter voor een groep van vijf spelers van level 2 en verbruikt ongeveer 15% van hun totale maximale hit points. Pas de encounter aan voor kleinere of grotere groepen als volgt:
+
+- **Drie spelers:** Verlaag de hit points van het harnas naar 12.  
+- **Vier spelers:** Verlaag de hit points van het harnas naar 21.  
+- **Zes spelers:** Verhoog de hit points van het harnas naar 48.  
+:::
 
 ### Master Suite
 
@@ -540,29 +562,7 @@ Spelers die de akte van Old Bonegrinder in de geheime kist vinden, komen vaak to
 
 *Appendix B: Gebied 38*
 
-:::exposition
-<div class="statblock">
-<div class="statblock-column">
-<h3 class="statblock-title">Flesh Mound</h3>
-*Large undead, chaotic evil*<br /><br />
-**Armor Class** 15 (natural armor)  
-**Hit points** 93 (11d10 + 33)  
-**Speed** 20ft.<br /><br />
-**&nbsp;&nbsp;&nbsp;
-STR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-DEX &nbsp;&nbsp;&nbsp;&nbsp;
-CON &nbsp;&nbsp;&nbsp;&nbsp;
-INT &nbsp;&nbsp;&nbsp;&nbsp;
-WIS &nbsp;&nbsp;&nbsp;
-CHAR**  
-16 (+3) &nbsp; 18 (-1) &nbsp; 16 (+3) &nbsp; 3(-4) &nbsp; 10 (+0) &nbsp; 5 (-3)  
 
-</div>
-<div class="statblock-column">
-(2d6 + 3) bludgeoning damage
-</div>
-</div>
-:::
 
 ## Ontsnapping uit het Dodenhuis
 

@@ -1,0 +1,1 @@
+![Walter, the Graveborn](/img/statblocks/walter-the-graveborn.png)
